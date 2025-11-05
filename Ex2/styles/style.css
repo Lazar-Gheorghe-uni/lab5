@@ -1,0 +1,37 @@
+body 
+{
+	background-color : black;
+	color : white;
+	text-align : center ;
+}
+
+p
+{
+	color : lightgrey;
+}
+table
+{
+	color : lightgreen;
+	border : 2px lightgrey;
+}
+div {
+	width : 40%;
+	margin : auto;
+}
+.img-profil
+{
+	height : 200px;
+	width : 200px;
+	display:block;
+	border-radius:50%;
+}
+
+#titlu
+{
+	color : yellow;
+	margin : 24px;
+}
+#div_lista
+{
+	width : 20%;
+}
